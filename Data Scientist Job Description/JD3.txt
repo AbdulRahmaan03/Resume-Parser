@@ -1,0 +1,39 @@
+Job Purpose
+The Principal Data Analyst is a fully-participating member of a cross-functional team working autonomously on technology development and problem resolution in the Enterprise Data & Analytics space. The role involves the analysis aspects of sourcing and transforming data to ensure it delivers on the insights required by Emirates Airlines and Emirates Group business stakeholders. It also involves collaboration with business stakeholders, product owners, delivery leads, architects and data engineers to deliver high-quality product features successfully, and in a timely fashion. The Principal Data Analyst leverages his technology/leadership skills for talent development, and to drive continuous improvement in the form of new data platforms and automation frameworks.
+Job Outline:
+- Accountable for maintenance of core data repositories as data sources and interfaces change over time. Work with the senior data analysts to ensure data analysis and data issue resolution activities are completed in a robust and timely fashion (including analysis of potential data quality issues). These activities include collection of data dictionaries / business glossaries, refinement of business transformation rules, data gap analysis, data profiling and production of mapping documents to ensure solutions provide timely business value.
+- Understands business domains well (e.g. airline, passenger, pilot & crew, aircrafts, HR, Finance). Work with product owners and business users to lead efforts to understand operational source system data and business transformation / data cleansing rules required to ensure that analytical solutions generate the insights required by the business, including during the discovery phase of new initiatives. Operate with a data-driven mind-set, helping the business generate those insights based on data, and work with them to develop meaningful business KPI?
+- Define and maintain conceptual, logical, and physical data models and data interfaces for the analytical environment. Work with business users on access, query patterns and ensuring that they effectively meet business expectations.
+- Provide feedback on technical solutions to ensure they effectively meet the analytical requirements and expectations, are easily accessible and query able, and provide timely business value.
+- Implement and practice fit-for-purpose estimation techniques, to promote iterative delivery. Help the team in refining estimates during sprint planning, with optimal assumptions and inter-dependency understanding.
+- Collaborate with the quality engineers to identify areas which need to be validated and ensure data exposed to business stakeholders satisfies their analytical needs.
+- Partner with a Data Governance group to establish and implement appropriate standards, methodologies, template and tools related to documenting and analysing data assets.
+- Keep current on evolving Emirates Airlines and Emirates Group data and analytics business knowledge domains to accurately assess the quality of the data and ensure business glossaries remain up-to-date, and drive quality and consistency across data and analytic solutions.
+- Mentor and coach data analysts on data analysis standards, templates, methodologies and guidelines. Manage some less senior data engineers guide them through a career development framework. Build fit-for-purpose on-boarding guides and robust feedback mechanisms to ensure optimal experience for data analysis talent and continuous improvement. Help identify any skills gaps and support staff movements and rotations.
+- Manage multiple assigned teams, with accountability for hiring top talent, defining development goals, and measuring performance. Contribute to and support building a scalable data analysis team model. Identify any skills or resources gaps and assist chapter leads and other data program leaders in closing those gaps. Work with partner and/or offshore teams to accelerate delivery.
+Qualifications & Experience
+Information Technology Other: 8+ Years
+Degree or Honours (12+3 or equivalent) :
+Degree in a relevant field such as Computer Science, Computational Mathematics, Computer Engineering or Software Engineering.
+Specialization or electives in a Data & Analytics field (e.g. Data Warehousing, Data Science, Business Intelligence) a nice-to-have Experience in Data Analysis experience (Fewer years?
+Experience will be considered for Master s Degree holders)
+- Minimum 8+ years conducting data analysis tasks or leading efforts to conduct such tasks (e.g. source system identification, data dictionary / metadata collection, data profiling, source-to-target mapping)
+- Proven track record developing and maintaining data documentation artefacts in organizations of similar size and complexity within project deadlines
+- Proven track record developing templates for organizing data analysis output, and rolling them out
+- Deep expertise on business transformation rules and understanding of data solution designs
+- Experience building conceptual, logical and physical data models
+- Experience writing complex SQL queries to analyse data and provide results to business users or project team members
+- Experience with building information designs for data-centric projects on two or more of the following (preferably within an airlines industry): Data Warehouses, Big Data Environment for Analytics, Data API, and Business Intelligence Solutions
+- Experience with data governance or business intelligence tools (e.g. Collibra, Snowflake, Microstrategy, PowerBI)
+- Experience working with partner and/or offshore teams is preferred.
+- Experience coaching and mentoring less senior talent, experience directly managing staff is preferred
+- Airline industry experience strongly preferred (or expertise in a supporting function such as HR or Finance), needs to understand the business domains well to lead data modelling and analysis activities.
+Knowledge/Skills:
+- Excellent communicator, able to clearly communicate rationale, approaches and complex data models to business stakeholders, peers and management
+- Operates with? You Code It, You Own It? mind-set (i.e. supports the products they build)
+- Demonstrated problem-solver, able to design and document solutions independently
+- Strong work ethic, being results-oriented, and accuracy / attention to detail are critical
+- Demonstrated initiative, able to work both independently and as a team member
+- Team player, able to collaborate with others to remove blockers, solve complex data problems and debug/resolve issues.
+- Self-starter and has passion for exploring and learning new technologies, especially those in the Enterprise Data & Analytics space
+- Able to deliver solutions (and associated value) iteratively Is accountable and displays positive attitude.

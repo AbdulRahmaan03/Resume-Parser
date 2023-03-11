@@ -1,0 +1,36 @@
+Job Description
+Bayut & dubizzle have the unique distinction of being iconic, homegrown brands with a strong presence across the seven emirates in the UAE. Connecting millions of users across the country, we are committed to delivering the best online search experience.
+As part of EMPG, we are alongside some of the strongest classifieds brands in the market. With a collective strength of 10 brands, we have more than 200 million monthly users that trust in our dedication to providing them with the best platform for their needs.
+At Bayut dubizzle, our Senior Data Scientist participate in exciting projects covering the end-to-end Data Science lifecycle from raw data cleaning and exploration with primary and third-party systems, through advanced state-of-the-art data visualization and Machine learning development.
+As a Machine Learning Engineer you will be participating in exciting projects covering the end-to-end Data Science lifecycle from raw data cleaning and exploration with primary and third-party systems, through advanced state-of-the-art data visualization and Machine learning development.
+You will work in a modern cloud-based data warehousing environment hosting Machine Learning models alongside alongside a team of diverse, intense and interesting co-workers. You will liaise with other departments such as product & tech, the core business verticals, trust & safety, finance and others to enable them to be successful.
+In this role, you will:
+• Work on regression and classification problems on tabular, textual and image data.
+• Work on forecasting, anomaly detection and time-series analysis.
+• Build recommendation engines.
+• Query large datasets in AWS Redshift to extract the necessary data that will feed ML models.
+• Perform data exploration to find patterns in the data and understand the state and quality of the data available.
+• Utilize Python code for analyzing data and building statistical models to solve specific business problems.
+• Evaluate ML models and fine tune model parameters considering the business problem behind.
+• Collaborate with senior peers to Deploy ML models into production that work as standalone data services.
+• Build customer-facing reporting tools to provide insights and metrics which track system performance.
+• Participate in the off-hours on call stability rota to support live ML models
+• Own at least one ML product that is in production
+Desired Candidate Profile
+• Master s degree in AI, Statistics, Math, Operations Research, Engineering, Computer Science, or a related quantitative field
+• 2 years of working experience in Machine Learning
+• Experience with AWS Batch and Lambda.
+• Excellent in statistical modeling and math
+• Intermediate knowledge of Python s ML stack: Pandas, Matplotlib, Sklearn, Tensorflow.
+• Intermediate knowledge of machine learning algorithms such as Linear regression, Gradient boosted trees, Neural networks.
+• Basic knowledge of SQL and experience handling large datasets.
+• Basic knowledge of visualization tools such as Periscope.
+• Basic knowledge of statistical analysis and A/B testing
+• A fast paced, high performing team.
+• Multicultural environment with over 50 different nationalities
+• Competitive Tax-free Salary
+• Comprehensive Health Insurance
+• Annual Air Ticket Allowance
+• Employee discounts at multiple vendors across the emirates
+• Rewards & Recognitions
+• Learning & Development

@@ -1,0 +1,47 @@
+Job Description
+We are looking for a Solutions Engineer specializing in Frontend development with about two years of work experience to join our fast-moving startup team. We offer a flexible work environment. We are located in Zurich. You'll be helping build and support the platform, an unstructured data discovery and analysis platform. Our AI applications use state-of-the-art machine learning algorithms and natural-language processing tools. This position, within the global delivery team, will implement our AI applications using real-world client data.
+Responsibilities
+• Work directly with customers on a strategic and operational level throughout the stages of solution design, implementation, and support.
+• Implement innovative digital transformation projects, primarily in the insurance and banking industries.
+• Collaborate with business team members on customer use cases to determine technical requirements to deliver business outcomes.
+• Engage with various internal and external stakeholders.
+• Adopt and customise our frontend BI dashboards used for insights generation.
+• Documentation of projects and knowledge sharing.
+• Provide technical advice and support to our customers and engage with technical contacts in customer and partner organisations.
+• Ensure high-quality delivery and proactively manage risk and dependencies.
+Preferred experience
+• 1 years in technical consulting, software engineering, or DevOps engineering roles.
+• 1 years in a client-facing role as a point-of-contact for technical and non-technical users.
+• Experience with CSS and implementing designs in close collaboration with a designer.
+• Experience developing user interface components and implementing them with React.js.
+• Familiar with performance optimisation techniques.
+• Experience with testing and test-driven development.
+• Experience designing, developing and maintaining business intelligence solutions.
+• Crafting and executing queries upon request for data.
+• Presenting information through reports and visualisation.
+• End-to-end project delivery, including the setup and deployment of IT solutions for clients, data loading, data enrichment and analysis, data visualisation, and integration.
+• Existing knowledge of Python is not required but helpful
+• Ability to communicate complex technical concepts to various audience levels
+• Support sales personnel at customer sites with attention to detail and organisational skills.
+Our Tools
+• Core software: Python, JavaScript, CentOS.
+• Data storage: ElasticSearch, MariaDB (MySQL), Redis.
+• Web components: Nginx, Flask.
+• Frontend components: React.js, Backbone.js, Underscore.js.
+• Other: Atlassian (JIRA, Confluence), Git.
+We offer you
+• A start-up like environment and culture, fast-paced and agile with quick decision-making.
+• An environment where team members at all levels can make a difference.
+• Competitive salary with benefits
+• To become part of the Squirro CH team with passionate co-workers.
+• Interesting data science projects
+• Ongoing feedback as part of our working culture to grow and develop.
+• We believe in life-long learning and supporting the development of our staff.
+Desired Candidate Profile
+• You are a smart, open-minded and curious person
+• You can deal with challenges and are able to find the best technical solution
+• You can identify the root cause of a problem and name it
+• Strong programming experience in JavaScript
+• Proven track record in software systems design and implementation
+• Good communication skills
+• Fluent in English, written and verbal. Other languages are welcome (e.g. German)

@@ -1,0 +1,24 @@
+Job Description
+• Transform raw data into meaningful insights and business metrics that are accomplished by interactive and easy-to-understand dashboards and reports.
+• Develop dashboards and simulations to describe and predict business performance
+• Work across all areas with a focus on producing meaningful results for the business.
+• Develop Dashboards to automate all business metrics and KPIs using Excel and Power BI
+• Uses data science techniques to predict what will or should happen in the future.
+• Engineer Data and Design simulation tools/data models for decision-making to view the impact of specific changes on business results.
+• Administer Power BI tools and accounts.
+• Identify, analyze, and interpret trends or patterns in a complex data set.
+• Provide insights and make recommendations based on data analysis
+Desired Candidate Profile
+• BSc/Ba in Business Administration, Engineering, Information Technology, Computer Science, or a related discipline.
+• Power BI Development Advanced Certificates.
+• SQL Certificate.
+• Proven experience in developing dashboards using Power BI.
+• Attentive to details and committed to data integrity
+• Organized, able to manage multiple, competing priorities and deliver results under tight deadlines.
+• Strong business acumen.
+• Superb problem-solving, logical, and analytical abilities.
+• Excellent command of English.
+• Excellent verbal and written communication skills.
+• Proven experience in developing dashboards using Power BI.
+• Accountable for results with a sense of urgency to achieve goals.
+• Flexible and Achiever

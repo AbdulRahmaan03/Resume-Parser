@@ -1,0 +1,24 @@
+Job Description
+
+• Carryout more complex data analysis and deliver results independently.
+• Work with stakeholders to determine how to use business data for valuable business solutions.
+• Create custom data models (predictive) and machine learning algorithms.
+• Use predictive models to improve customer experience, targeting, revenue generation, and more.
+• Coordinate with various technical/functional teams to implement models and monitor results.
+• Develop processes, techniques, and tools to analyse and monitor model performance while ensuring data accuracy.
+• Manage data science deliverables end to endIdentify opportunities of data science use cases and evaluate feasibility of future engagements.
+• Communicate recommendations on some of the most complex issue.
+• Develop and own project plans and timelines, and lead cross-functional teams to ensure on-time delivery of high quality use cases.
+• Track and communicate project progress clearly and effectively.
+
+Desired Candidate Profile
+
+• Bachelor degree in Computer Science or any other technical field.
+• 8+ years of experience as a Data Scientist or Data Analyst in financial services.
+• Sound knowledge about bank s products and services.
+• Strong math skills (Applied Statistics).
+• Knowledge and application experience in advanced statistical techniques and concepts, including, regression, distribution properties, statistical testing, etc.
+• Knowledge of R, SQL and Python; familiarity with Scala, Java or C++.
+• Advanced Computer literacy.
+• Analytical and conceptual thinking.
+• Presentation and Interpersonal skills.

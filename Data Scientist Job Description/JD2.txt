@@ -1,0 +1,15 @@
+Job Description
+• Build, develop, and lead the data analytics tools and deliver forward-looking consumer insights/trends and meet the needs of business growth.
+• Integrate different types of insights to tell a holistic story that meets the overall needs of both the manufacturing partner along with RCX.
+• Resolve queries from internal customers by providing information on complex processes and the related policies, referring to others where necessary for interpretation of data.
+• Translate business questions into learning plans and then lead, develop, design, and conduct primary research studies to enable a synthesis of data to develop insights.
+• Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+• Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+• Coordinate with different functional teams to implement models and monitor outcomes.
+• Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+• Develop custom data models and algorithms to apply to data sets.
+• Awareness of predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+• Develop processes and tools to monitor and analyze model performance and data accuracy.
+Desired Candidate Profile
+• Interpersonal Skills: Result Orientation - Operational Awareness - Building Networks - Coaching & Mentoring - Customer Centricity
+• Technical Skills: BI tool (Power BI & Tableau) is a Must Analytical thinking and problem solving Knowledge in SQL , SQL performance tuning Understanding of Statistical Analysis. Deep Programming skills in python (Numpy, pandas) Technical Knowledge: Acquaintance with using statistical computer languages and querying databases with (R, Python, SQL, MySQL etc.) to manipulate data and draw insights from large data sets. Hands on experience in data modeling and pipeline design. Knowledge of some ETL tools like Data Stage

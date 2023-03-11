@@ -1,0 +1,28 @@
+Job Purpose
+Develop and optimise the data infrastructure and frameworks behind the customer-centric marketing business. Make improvements to the marketing data lifecycle, from the way data is extracted and prepared to the way analysis and segmentation is performed and presented through to data distribution and activation in marketing channels. Map out and develop the data ingestion, integration and distribution processes from various internal and external sources, streamlining the information for the use of the marketing teams.
+Job Outline:
+- Responsible for designing, managing and governing the data model, ETL flows and catalogue. Work closely with the Customer Insights Analysts to understand their requirements and ensure data is sourced, structured and available for use.
+- Understand structured and unstructured data in order to identify, cleanse, map and combine data and data sets from multiple sources in preparation for the Customer Insights team. Ensure the data format is ready for use in segmentation, insights extraction and other marketing applications.
+- Ensure data is integrated, centralised and maintained in a Marketing Data Platform so that there is a single source of truth from which all insights activities can be obtained.
+- Remain at the forefront of and drive continuous improvements in extraction, aggregation, testing and analysis of terabytes of customer data. Map out and develop the data ingestion, integration and distribution processes from various internal and external sources, streamlinging the information for the use of the marketing teams.
+- End-to-end project delivery including testing, validation and the creation of written documentation including process flowcharts, marketing data catalogue, clear code and comments.
+- Work closely with analysts to help them get the most out of the available data lake and enable the discovery of actionable insights that support decision making.
+- Effectively apply technology to surface insights automatically, optimise data delivery and simplify self-service analysis for the wider marketing business user group.
+- Work with our enterprise analytics and data science teams to research, prototype and implement new statistical methodologies that extend the portfolio of insights we can provide to the marketing teams.
+- Assist in machine learning model development, evaluation and deployment in addition to support segmentation, profiling and attribute derivation. Leverage our cloud data infrastructure to build and integrate the models into real-time services that power the analytical and marketing execution processes.
+- In collaboration with cross-functional experts across IT, CyberSecurity and the Data Privacy Office, be responsible for understanding and adhering to the current privacy, security and regulatory compliance as it pertains to customer data, contribute to keeping and improving governance best practices and standards. Maintain compliance to Emirates Group privacy principles and work with the Data Privacy Network Liaison within CCMB to ensure privacy and security of personal data is considered by design and default in all aspects of the role.
+Qualifications & Experience
+- Marketing & Media Communication.Other : 5+ Years
+- Degree or Honours (12+3 or equivalent)
+- Degree in marketing or related discipline.
+- Experience in analysing customer data for marketing purposes.
+Knowledge/skills:
+- Hands on and deep experience working with Google Data Products (e.g. BigQuery, Dataflow, Dataproc, AI Building Blocks, Cloud Data Fusion, Dataprep, etc.).
+- Deep knowledge and experience with relational data systems and SQL and NoSQL modern data stores.
+- Experience in Spark (Scala/Python/Java) and Kafka.
+- Working knowledge of manipulating, processing and extracting value from large-scale, complex datasets.
+- Demonstrated experience in applying data warehouse design, data quality principles and agile processes.
+- Experience with REST APIs and web services.
+- Knowledge of professional software engineering practices and best practices for the full software development life cycle (SDLC), including coding standards, code reviews, version control management, build processes, testing, and operations. Ability to effectively manage multiple projects and workstreams, with attention to detail and accuracy.
+- Experience of pipelining, setting up and deploying ML models into production (Continuous integration & continuous deployment)
+- Not essential, but desirable: Familiar with Agile software development process & tools.
